@@ -9,7 +9,7 @@ public class StopWatch {
     }
 
     public StopWatch() {
-    } 
+    }
 
     public String Star() {
         startTime = String.valueOf(java.time.LocalTime.now());

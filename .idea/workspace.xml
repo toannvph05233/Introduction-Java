@@ -2,7 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5a6a9c5-28a6-423d-9e00-2a3510d9310e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Luyen_Tap/Login.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Luyen_Tap/testMainSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Toan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Toan.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Toan/IntroductionJava/numbersIntoWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Toan/IntroductionJava/numbersIntoWords.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Toan/Luyen_Tap/Nguoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Toan/Luyen_Tap/Nguoi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Toan/Luyen_Tap/SinhVien.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Toan/Luyen_Tap/SinhVien.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Toan/Luyen_Tap/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Toan/Luyen_Tap/main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntroductionJava/numbersIntoWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntroductionJava/numbersIntoWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Luyen_Tap/Nguoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Luyen_Tap/Nguoi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Luyen_Tap/SinhVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Luyen_Tap/SinhVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Luyen_Tap/main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class_OOP/StopWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_OOP/StopWatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +27,8 @@
         <option value="package-info" />
         <option value="JavaScript File" />
         <option value="Kotlin Class" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -30,18 +44,38 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/c11-19h1/baitap/junit-simple-calculator-master" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.MyClass">
-    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class_OOP.MyClass" />
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="testter" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Login">
+    <configuration name="De_Quy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testter.De_Quy" />
       <module name="Toan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="class_OOP.*" />
+          <option name="PATTERN" value="testter.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -49,8 +83,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ascendingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraysAndMethods.ascendingArray" />
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Luyen_Tap.View.Login" />
+      <module name="Toan" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Luyen_Tap.View.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="countCharactersString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arraysAndMethods.countCharactersString" />
       <module name="Toan" />
       <extension name="coverage">
         <pattern>
@@ -62,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Luyen_Tap.main" />
+    <configuration name="kiemTra_Chuoi_DX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Luyen_Tap.Bai_Tap_Tet.kiemTra_Chuoi_DX" />
       <module name="Toan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Luyen_Tap.*" />
+          <option name="PATTERN" value="Luyen_Tap.View.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,25 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="moreArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraysAndMethods.moreArray" />
+    <configuration name="testMainArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Luyen_Tap.testMainArrayList" />
       <module name="Toan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arraysAndMethods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="tets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="class_OOP.tets" />
-      <module name="Toan" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="class_OOP.*" />
+          <option name="PATTERN" value="Luyen_Tap.View.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MyClass" />
-        <item itemvalue="Application.tets" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.moreArray" />
-        <item itemvalue="Application.ascendingArray" />
+        <item itemvalue="Application.Login" />
+        <item itemvalue="Application.testMainArrayList" />
+        <item itemvalue="Application.kiemTra_Chuoi_DX" />
+        <item itemvalue="Application.countCharactersString" />
+        <item itemvalue="Application.De_Quy" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +185,20 @@
       <workItem from="1577150602338" duration="9826000" />
       <workItem from="1577161365926" duration="10505000" />
       <workItem from="1577234969240" duration="19429000" />
-      <workItem from="1577322223916" duration="13448000" />
+      <workItem from="1577322223916" duration="15497000" />
+      <workItem from="1577410041405" duration="1845000" />
+      <workItem from="1577428700855" duration="4962000" />
+      <workItem from="1578208451982" duration="4921000" />
+      <workItem from="1578360477187" duration="14721000" />
+      <workItem from="1578383168837" duration="2115000" />
+      <workItem from="1578387490943" duration="2496000" />
+      <workItem from="1578446750606" duration="2868000" />
+      <workItem from="1578534232840" duration="5008000" />
+      <workItem from="1578552204193" duration="5734000" />
+      <workItem from="1578565155078" duration="207000" />
+      <workItem from="1578619460001" duration="15487000" />
+      <workItem from="1578657828328" duration="4872000" />
+      <workItem from="1578749202153" duration="78000" />
     </task>
     <servers />
   </component>
@@ -159,54 +206,86 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="73" key="#Project_Structure" timestamp="1577431048110">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="73" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1577431048110" />
     <state x="503" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577083188366">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="503" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1577083188366" />
-    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1577335031398">
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1578387575798">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1577335031398" />
-    <state width="1493" height="194" key="GridCell.Tab.0.bottom" timestamp="1577349733454">
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1578387575798" />
+    <state x="571" y="303" width="393" height="224" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577431131685">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577349733454" />
-    <state width="1493" height="194" key="GridCell.Tab.0.center" timestamp="1577349733454">
+    <state x="571" y="303" width="393" height="224" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1577431131685" />
+    <state x="499" y="161" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1578661662160">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577349733454" />
-    <state width="1493" height="194" key="GridCell.Tab.0.left" timestamp="1577349733454">
+    <state x="499" y="161" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1578661662160" />
+    <state x="549" y="169" key="FileChooserDialogImpl" timestamp="1578537415850">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577349733454" />
-    <state width="1493" height="194" key="GridCell.Tab.0.right" timestamp="1577349733454">
+    <state x="549" y="169" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578537415850" />
+    <state width="1493" height="291" key="GridCell.Tab.0.bottom" timestamp="1578662712166">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577349733454" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1577270072538">
+    <state width="1493" height="291" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578662712166" />
+    <state width="1493" height="291" key="GridCell.Tab.0.center" timestamp="1578662712166">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577270072538" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1577270072538">
+    <state width="1493" height="291" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578662712166" />
+    <state width="1493" height="291" key="GridCell.Tab.0.left" timestamp="1578662712166">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1577270072538" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1577270072538">
+    <state width="1493" height="291" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578662712166" />
+    <state width="1493" height="291" key="GridCell.Tab.0.right" timestamp="1578662712166">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1577270072538" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1577270072538">
+    <state width="1493" height="291" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578662712166" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1578213518305">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1577270072538" />
-    <state x="279" y="57" key="SettingsEditor" timestamp="1577158205913">
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578213518305" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1578213518305">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="279" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1577158205913" />
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1577322225951">
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1578213518305" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1578213518305">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577322225951" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1578213518305" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1578213518305">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578213518305" />
+    <state x="429" y="129" key="GuiDesigner.FormSource.Dialog" timestamp="1578662609502">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="429" y="129" key="GuiDesigner.FormSource.Dialog/0.0.1536.824@0.0.1536.824" timestamp="1578662609502" />
+    <state x="279" y="57" key="SettingsEditor" timestamp="1578542863665">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="279" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578542863665" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1578749203006">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578749203006" />
+    <state x="498" y="313" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1578539218337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="313" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1578539218337" />
+    <state x="540" y="131" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1578540353808">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="540" y="131" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1578540353808" />
+    <state x="557" y="305" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1578662630185">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="557" y="305" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1578662630185" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1577154212131">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

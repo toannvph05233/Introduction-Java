@@ -54,9 +54,11 @@ public class Nguoi {
     }
 
     public void display() {
-        System.out.println("họ tên :" + this.name);
-        System.out.println("địa chỉ :" + this.address);
-        System.out.println("năm sinh :" + this.birthday);
+        System.out.println("danh sách sinh viên là :");
+        System.out.println("---------------------------------------------------");
+        System.out.print("họ tên :" + this.name);
+        System.out.print("    địa chỉ :" + this.address);
+        System.out.println("    năm sinh :" + this.birthday);
     }
 
 }

@@ -59,12 +59,14 @@ public class SinhVien extends Nguoi {
 
     public void display(){
         super.display();
-        System.out.println("mã sinh viên : " + maSV);
-        System.out.println("mã môn Toán : " + maMath);
-        System.out.println("mã môn Lý : " + maPhysical);
-        System.out.println("điểm môn toán : " + pointM);
-        System.out.println("điểm môn lý : " + pointP);
-        System.out.println("điểm trung bình 2 môn : " + mediumScore);
+        System.out.println("-----------------------------------------------");
+        System.out.print("mã sinh viên : " + maSV);
+        System.out.print("    mã môn Toán : " + maMath);
+        System.out.println("    mã môn Lý : " + maPhysical);
+        System.out.println("-----------------------------------------------");
+        System.out.print("điểm môn toán : " + pointM);
+        System.out.print("    điểm môn lý : " + pointP);
+        System.out.println("     điểm trung bình 2 môn : " + mediumScore);
 
     }
 
