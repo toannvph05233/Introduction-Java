@@ -1,20 +1,30 @@
 package Luyen_Tap.View;
 
 import javax.swing.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class Controler {
-    private JTextField textField1;
+    private JTextField jTname;
     private JButton hiểnThịButton;
     private JButton sửaButton;
     private JButton xóaButton;
-    private JTextField textField2;
-    private JTextField textField3;
-    private JTextField textField4;
-    private JTextField textField5;
-    private JTextField textField6;
+    private JTextField jTaress;
+    private JTextField jTbirthday;
+    private JTextField jTid;
+    private JTextField jTpointM;
+    private JTextField jTpointP;
     private JButton tìmKiếmButton;
     private JButton thêmButton;
-    private JTextField textField7;
+    private JTextField jTpointTB;
 
 
+    public Controler() {
+        hiểnThịButton.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+
+            }
+        });
+    }
 }

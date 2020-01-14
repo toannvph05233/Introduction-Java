@@ -2,19 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5a6a9c5-28a6-423d-9e00-2a3510d9310e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Luyen_Tap/Login.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Luyen_Tap/testMainSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Toan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Toan.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Toan/IntroductionJava/numbersIntoWords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Toan/IntroductionJava/numbersIntoWords.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Toan/Luyen_Tap/Nguoi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Toan/Luyen_Tap/Nguoi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Toan/Luyen_Tap/SinhVien.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Toan/Luyen_Tap/SinhVien.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Toan/Luyen_Tap/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Toan/Luyen_Tap/main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntroductionJava/numbersIntoWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntroductionJava/numbersIntoWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Luyen_Tap/Nguoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Luyen_Tap/Nguoi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Luyen_Tap/SinhVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Luyen_Tap/SinhVien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Luyen_Tap/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class_OOP/StopWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class_OOP/StopWatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Toan/Luyen_Tap/View/Login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Toan/Luyen_Tap/main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Luyen_Tap/Login.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Luyen_Tap/View/Controler.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Luyen_Tap/View/Controler.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Luyen_Tap/View/Controler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Luyen_Tap/View/Controler.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +62,13 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Login">
-    <configuration name="De_Quy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="testter.De_Quy" />
+  <component name="RunManager" selected="Application.Dem_So_Tu_Trong_Chuoi">
+    <configuration name="Dao_Nguoc_Phan_Tu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queueAndStack.Dao_Nguoc_Phan_Tu" />
       <module name="Toan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testter.*" />
+          <option name="PATTERN" value="queueAndStack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Luyen_Tap.View.Login" />
+    <configuration name="Dem_So_Tu_Trong_Chuoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCollectionsFramework.Dem_So_Tu_Trong_Chuoi" />
       <module name="Toan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Luyen_Tap.View.*" />
+          <option name="PATTERN" value="JavaCollectionsFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="countCharactersString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arraysAndMethods.countCharactersString" />
+    <configuration name="Queue_Danh_Sach_Lien_Ket$LinkedListQueueClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="queueAndStack.Queue_Danh_Sach_Lien_Ket$LinkedListQueueClient" />
       <module name="Toan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="arraysAndMethods.*" />
+          <option name="PATTERN" value="queueAndStack.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="kiemTra_Chuoi_DX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Luyen_Tap.Bai_Tap_Tet.kiemTra_Chuoi_DX" />
+    <configuration name="Tu_Dien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaCollectionsFramework.Tu_Dien" />
       <module name="Toan" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Luyen_Tap.View.*" />
+          <option name="PATTERN" value="JavaCollectionsFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Login" />
+        <item itemvalue="Application.Dem_So_Tu_Trong_Chuoi" />
+        <item itemvalue="Application.Tu_Dien" />
+        <item itemvalue="Application.Dao_Nguoc_Phan_Tu" />
+        <item itemvalue="Application.Queue_Danh_Sach_Lien_Ket$LinkedListQueueClient" />
         <item itemvalue="Application.testMainArrayList" />
-        <item itemvalue="Application.kiemTra_Chuoi_DX" />
-        <item itemvalue="Application.countCharactersString" />
-        <item itemvalue="Application.De_Quy" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +192,8 @@
       <workItem from="1578619460001" duration="15487000" />
       <workItem from="1578657828328" duration="4872000" />
       <workItem from="1578749202153" duration="78000" />
+      <workItem from="1578750606680" duration="3106000" />
+      <workItem from="1578966023710" duration="18408000" />
     </task>
     <servers />
   </component>
@@ -214,10 +209,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="503" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1577083188366" />
-    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1578387575798">
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser" timestamp="1578966482427">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1578387575798" />
+    <state x="574" y="121" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1578966482427" />
     <state x="571" y="303" width="393" height="224" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1577431131685">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -230,22 +225,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="169" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578537415850" />
-    <state width="1493" height="291" key="GridCell.Tab.0.bottom" timestamp="1578662712166">
+    <state width="1493" height="291" key="GridCell.Tab.0.bottom" timestamp="1578997254575">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="291" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578662712166" />
-    <state width="1493" height="291" key="GridCell.Tab.0.center" timestamp="1578662712166">
+    <state width="1493" height="291" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578997254575" />
+    <state width="1493" height="291" key="GridCell.Tab.0.center" timestamp="1578997254575">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="291" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578662712166" />
-    <state width="1493" height="291" key="GridCell.Tab.0.left" timestamp="1578662712166">
+    <state width="1493" height="291" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1578997254575" />
+    <state width="1493" height="291" key="GridCell.Tab.0.left" timestamp="1578997254575">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="291" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578662712166" />
-    <state width="1493" height="291" key="GridCell.Tab.0.right" timestamp="1578662712166">
+    <state width="1493" height="291" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1578997254575" />
+    <state width="1493" height="291" key="GridCell.Tab.0.right" timestamp="1578997254575">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="291" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578662712166" />
+    <state width="1493" height="291" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1578997254575" />
     <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1578213518305">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -270,10 +265,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="279" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1578542863665" />
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1578749203006">
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog" timestamp="1578966025820">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578749203006" />
+    <state x="477" y="239" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1578966025820" />
     <state x="498" y="313" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1578539218337">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -286,6 +281,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="557" y="305" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1578662630185" />
+    <state x="499" y="174" key="extract.method.dialog" timestamp="1578971297509">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="174" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1578971297509" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1577154212131">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
